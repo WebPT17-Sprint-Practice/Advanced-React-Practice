@@ -5,7 +5,7 @@ Follow these steps to set up and work on your project:
 
 - [ ] Create a forked copy of this project.
 
-- [ ] Clone your OWN version of Repo. **(Not Lambda's by mistake!)**
+- [ ] Clone your OWN version of Repo. 
 - [ ] Create a new Branch locally: `git checkout -b <firstName-lastName>`.
 - [ ] Run `npm install` to download dependencies.
 - [ ] Run the server using `npm start` or `node server.js`.
